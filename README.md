@@ -1,0 +1,2 @@
+# premium-wood-oven-001-wood-fired-oven-building-refra
+Tired of your refractory dome cracking or collapsing because you guessed the mix ratios or lost track of curing times?  This Notion template eliminates guesswork by giving you a structured system to log every variable of your dome build—from mortar batch composition to thermal curing logs. It’s the only tracker that syncs your measurements, materia
